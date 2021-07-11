@@ -3,7 +3,6 @@
 
 I'm a **Computer Science** student **@UWaterloo** searching for a little bit of balance.
 
----
 
 - 💻 I’m currently working as a **Machine Learning Intern @XSensor**
 - 🚀 I lead **[House.ai](https://houseai.tech/)**, a startup with intersections in healthcare and ai.
