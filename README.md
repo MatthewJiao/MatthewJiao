@@ -6,7 +6,7 @@ I'm a **Computer Science** student **@UWaterloo** searching for a little bit of 
 
 - 💻 I’m currently working as a **Machine Learning Intern @XSensor**
 - 🚀 I lead **[House.ai](https://houseai.tech/)**, a startup with intersections in healthcare and ai.
-- 📚 Learn about me @**[www.matthewjiao.tech](https://www.matthewjiao.tech/)**.
+- 📚 Learn more about me @**[www.matthewjiao.tech](https://www.matthewjiao.tech/)**.
 
 
 
