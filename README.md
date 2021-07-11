@@ -1,7 +1,7 @@
 
 ## Hi there, I'm Matthew 👋
 
-I'm a **Computer Science** student @UWaterloo searching for balance.
+I'm a **Computer Science** student **@UWaterloo** searching for a little bit of balance.
 
 ---
 
