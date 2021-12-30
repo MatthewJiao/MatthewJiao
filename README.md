@@ -4,7 +4,6 @@
 I'm a **Computer Science** student **@UWaterloo** searching for a little bit of balance.
 
 
-- 💻 I’m currently looking for **Winter-2022 Internships**
 - 🚀 I lead **[House.ai](https://houseai.tech/)**, a startup with intersections in healthcare and ai.
 - 📚 Learn more about me **@[www.matthewjiao.tech](https://www.matthewjiao.tech/)**.
 
